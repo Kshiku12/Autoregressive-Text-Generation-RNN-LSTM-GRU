@@ -275,10 +275,3 @@ DL project/
 ├── KumarKshitij_230953488_FGAI_Assignment2.pdf     # Converted PDF document (Step 4 & 5)
 └── README.md                                # Comprehensive project documentation
 ```
-
-### Submission Checklist for LMS (Steps 1–5):
-- [x] **Step 1**: All four models implemented, trained, evaluated, and analyzed under identical conditions.
-- [x] **Step 2**: Git repository ready with `Autoregressive_Text_Generation.ipynb`, Python source files, plots, results, and comprehensive `README.md`.
-- [x] **Step 3**: Created Word document `YourName_RegNum_FGAI_Assignment2.docx` with student name, registration number, assignment title, system title, dataset link, and GitHub repository link.
-- [x] **Step 4**: Converted Word document to `YourName_RegNum_FGAI_Assignment2.pdf`.
-- [x] **Step 5**: Upload `YourName_RegNum_FGAI_Assignment2.pdf` to the LMS assignment portal before the deadline.
