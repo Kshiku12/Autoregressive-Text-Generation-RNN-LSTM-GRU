@@ -1,0 +1,46 @@
+[
+  {
+    "Model": "Simple_RNN",
+    "Parameters": 1795126,
+    "Best Val Loss": 5.0717,
+    "Best Val Perplexity": 159.45,
+    "Best Val Top-1 Acc (%)": 18.13,
+    "Best Val Top-5 Acc (%)": 39.08,
+    "Avg Epoch Time (s)": 1.67,
+    "Total Train Time (s)": 25.06,
+    "Inference Latency (ms/token)": 0.167
+  },
+  {
+    "Model": "Bidirectional_RNN",
+    "Parameters": 3021878,
+    "Best Val Loss": 5.243,
+    "Best Val Perplexity": 189.23,
+    "Best Val Top-1 Acc (%)": 16.51,
+    "Best Val Top-5 Acc (%)": 36.58,
+    "Avg Epoch Time (s)": 2.44,
+    "Total Train Time (s)": 36.66,
+    "Inference Latency (ms/token)": 0.224
+  },
+  {
+    "Model": "LSTM",
+    "Parameters": 2091574,
+    "Best Val Loss": 4.8432,
+    "Best Val Perplexity": 126.88,
+    "Best Val Top-1 Acc (%)": 18.79,
+    "Best Val Top-5 Acc (%)": 41.44,
+    "Avg Epoch Time (s)": 2.25,
+    "Total Train Time (s)": 33.74,
+    "Inference Latency (ms/token)": 0.63
+  },
+  {
+    "Model": "GRU",
+    "Parameters": 1992758,
+    "Best Val Loss": 4.8807,
+    "Best Val Perplexity": 131.73,
+    "Best Val Top-1 Acc (%)": 18.12,
+    "Best Val Top-5 Acc (%)": 40.12,
+    "Avg Epoch Time (s)": 2.15,
+    "Total Train Time (s)": 32.33,
+    "Inference Latency (ms/token)": 0.554
+  }
+]

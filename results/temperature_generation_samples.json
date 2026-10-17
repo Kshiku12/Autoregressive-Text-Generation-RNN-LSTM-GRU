@@ -1,0 +1,818 @@
+[
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "Simple_RNN",
+    "temperature": 0.2,
+    "generated_text": "A pair, and the lascar had been disturbed to the alpha of the authorities, but i have a considerable state, but i am sure to be a little more of the matter. It is a little",
+    "full_text": "Sherlock holmes took the letter from the table and a pair, and the lascar had been disturbed to the alpha of the authorities, but i have a considerable state, but i am sure to be a little more of the matter. It is a little",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.675,
+      "distinct_2": 0.8974,
+      "distinct_3": 0.9737,
+      "repetition_rate_2gram": 0.1026,
+      "repetition_rate_3gram": 0.0263,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "Simple_RNN",
+    "temperature": 0.7,
+    "generated_text": "Not the door and towards the man who have made me myself to make you. I am afraid, my dear them! For his fortunes in the same source, and then her fancies, but he would",
+    "full_text": "Sherlock holmes took the letter from the table and not the door and towards the man who have made me myself to make you. I am afraid, my dear them! For his fortunes in the same source, and then her fancies, but he would",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.875,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "Simple_RNN",
+    "temperature": 1.2,
+    "generated_text": "Hurling in but how he at present, he was a plainly words been drawn out upon our delicacy doctor, i have made her out door for his hand and down into the sort coat, very easy errand",
+    "full_text": "Sherlock holmes took the letter from the table and hurling in but how he at present, he was a plainly words been drawn out upon our delicacy doctor, i have made her out door for his hand and down into the sort coat, very easy errand",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.9,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.2,
+    "generated_text": "Looked, and then he was a false in the presence of the walls, and i took that it is a very good of a trifle of the wood. The long, and i found that it is",
+    "full_text": "Sherlock holmes took the letter from the table and looked, and then he was a false in the presence of the walls, and i took that it is a very good of a trifle of the wood. The long, and i found that it is",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.625,
+      "distinct_2": 0.8462,
+      "distinct_3": 0.9474,
+      "repetition_rate_2gram": 0.1538,
+      "repetition_rate_3gram": 0.0526,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.7,
+    "generated_text": "Now, i had found by the words of a long of paper we have given a violence of the debt this morning, said holmes, rather reading, and we have been first so that the presence were",
+    "full_text": "Sherlock holmes took the letter from the table and now, i had found by the words of a long of paper we have given a violence of the debt this morning, said holmes, rather reading, and we have been first so that the presence were",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.75,
+      "distinct_2": 0.9744,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0256,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 1.2,
+    "generated_text": "Knew the maid of into his passion. He said i ask in me that that is no, miss course of themselves work would bring up you of the friendly and leaning angel leaving, fattened you to them",
+    "full_text": "Sherlock holmes took the letter from the table and knew the maid of into his passion. He said i ask in me that that is no, miss course of themselves work would bring up you of the friendly and leaning angel leaving, fattened you to them",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.85,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0256
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "LSTM",
+    "temperature": 0.2,
+    "generated_text": "Held the window. I was a very pretty of the morning, and i should not know that i am afraid that you have not been a little too, and i am sure that you have not done",
+    "full_text": "Sherlock holmes took the letter from the table and held the window. I was a very pretty of the morning, and i should not know that i am afraid that you have not been a little too, and i am sure that you have not done",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.65,
+      "distinct_2": 0.8462,
+      "distinct_3": 0.9211,
+      "repetition_rate_2gram": 0.1538,
+      "repetition_rate_3gram": 0.0789,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "LSTM",
+    "temperature": 0.7,
+    "generated_text": "The whole table. It seems to hear something into a light. There is a cab and it, of the right, and then he hope down in the deepest side. He had happened, so i",
+    "full_text": "Sherlock holmes took the letter from the table and the whole table. It seems to hear something into a light. There is a cab and it, of the right, and then he hope down in the deepest side. He had happened, so i",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.75,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "LSTM",
+    "temperature": 1.2,
+    "generated_text": "Top as taken his inner might claim him nor the truth. I must make what would have widespread clear or catch the led one of the sort, good - day, bowed - coloured otherwise voice. Holmes",
+    "full_text": "Sherlock holmes took the letter from the table and top as taken his inner might claim him nor the truth. I must make what would have widespread clear or catch the led one of the sort, good - day, bowed - coloured otherwise voice. Holmes",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.875,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "GRU",
+    "temperature": 0.2,
+    "generated_text": "The windows. The inspector of the copper beeches, and the expression of the door, and the expression of the door, and the expression of the door, and the expression of the door, and the",
+    "full_text": "Sherlock holmes took the letter from the table and the windows. The inspector of the copper beeches, and the expression of the door, and the expression of the door, and the expression of the door, and the expression of the door, and the",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.275,
+      "distinct_2": 0.3846,
+      "distinct_3": 0.4211,
+      "repetition_rate_2gram": 0.6154,
+      "repetition_rate_3gram": 0.5789,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "GRU",
+    "temperature": 0.7,
+    "generated_text": "The passage behind the door. It was a good for two months, but you have made the matter, and i knew that what i must try that you would not be solved on some little before he",
+    "full_text": "Sherlock holmes took the letter from the table and the passage behind the door. It was a good for two months, but you have made the matter, and i knew that what i must try that you would not be solved on some little before he",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.85,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 1,
+    "seed_prompt": "sherlock holmes took the letter from the table and",
+    "model_name": "GRU",
+    "temperature": 1.2,
+    "generated_text": "The bedroom - table, built - coat door into mine curled and saw small that their his room could not stump cut. And being i presume back nothing. Hudson, very read; let fordham such when",
+    "full_text": "Sherlock holmes took the letter from the table and the bedroom - table, built - coat door into mine curled and saw small that their his room could not stump cut. And being i presume back nothing. Hudson, very read; let fordham such when",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.9,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "Simple_RNN",
+    "temperature": 0.2,
+    "generated_text": "I have been the dreadful of the copper beeches, but i have made the house of the copper beeches. I have a considerable state, but i have a considerable state, but i have been a little",
+    "full_text": "It was a dark and stormy night when i have been the dreadful of the copper beeches, but i have made the house of the copper beeches. I have a considerable state, but i have a considerable state, but i have been a little",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.425,
+      "distinct_2": 0.5897,
+      "distinct_3": 0.6842,
+      "repetition_rate_2gram": 0.4103,
+      "repetition_rate_3gram": 0.3158,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "Simple_RNN",
+    "temperature": 0.7,
+    "generated_text": ", but i came to be a dying reference life. He said the fire that he was set of the kind with a few pen again, and so i have been so happy at the time, and",
+    "full_text": "It was a dark and stormy night when, but i came to be a dying reference life. He said the fire that he was set of the kind with a few pen again, and so i have been so happy at the time, and",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.775,
+      "distinct_2": 0.9744,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0256,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "Simple_RNN",
+    "temperature": 1.2,
+    "generated_text": "Of a upon feet within - baker that it is nothing of the morning, with a slight flew closed saxe upon the disappearance which was associated laid the deadly slit. It does be remarkable the arrest to anyone",
+    "full_text": "It was a dark and stormy night when of a upon feet within - baker that it is nothing of the morning, with a slight flew closed saxe upon the disappearance which was associated laid the deadly slit. It does be remarkable the arrest to anyone",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.825,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.2,
+    "generated_text": "I had a single of the night. I am afraid that i am afraid to be a little. I had a single of the wood. The man was a very good of the servants man. I",
+    "full_text": "It was a dark and stormy night when i had a single of the night. I am afraid that i am afraid to be a little. I had a single of the wood. The man was a very good of the servants man. I",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.5,
+      "distinct_2": 0.7436,
+      "distinct_3": 0.8684,
+      "repetition_rate_2gram": 0.2564,
+      "repetition_rate_3gram": 0.1316,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.7,
+    "generated_text": "His had been drawn into town. My sister is clear in the left, and then, we have to be able to see that she was pretty to me to my your mind, i shall only to",
+    "full_text": "It was a dark and stormy night when his had been drawn into town. My sister is clear in the left, and then, we have to be able to see that she was pretty to me to my your mind, i shall only to",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.825,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 1.2,
+    "generated_text": "We can be beneath window her. Oh, not say now, but something, letter, the quite twelve, which met what his place in the light of deep the by case in st and advance her",
+    "full_text": "It was a dark and stormy night when we can be beneath window her. Oh, not say now, but something, letter, the quite twelve, which met what his place in the light of deep the by case in st and advance her",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.8,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "LSTM",
+    "temperature": 0.2,
+    "generated_text": "The door was shuttered, and the paper was a low man, and the colonel was only by the window, and the paper was a dying reference, and the same was in the passage of the window",
+    "full_text": "It was a dark and stormy night when the door was shuttered, and the paper was a low man, and the colonel was only by the window, and the paper was a dying reference, and the same was in the passage of the window",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.5,
+      "distinct_2": 0.7436,
+      "distinct_3": 0.8421,
+      "repetition_rate_2gram": 0.2564,
+      "repetition_rate_3gram": 0.1579,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "LSTM",
+    "temperature": 0.7,
+    "generated_text": "The deepest must be one of the window, and i believe that he was walking to be empty the other side of the year, but he entered him as she saw the door; and, as i",
+    "full_text": "It was a dark and stormy night when the deepest must be one of the window, and i believe that he was walking to be empty the other side of the year, but he entered him as she saw the door; and, as i",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.7,
+      "distinct_2": 0.9744,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0256,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "LSTM",
+    "temperature": 1.2,
+    "generated_text": ", tooth in civil and moustache him. And, because i never occur what done to the person and, and the avenue still could hardly our visitor them from my own hand, to keep the furniture before",
+    "full_text": "It was a dark and stormy night when, tooth in civil and moustache him. And, because i never occur what done to the person and, and the avenue still could hardly our visitor them from my own hand, to keep the furniture before",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.775,
+      "distinct_2": 0.9744,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0256,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "GRU",
+    "temperature": 0.2,
+    "generated_text": "He was hot in the room, and the huge of the floor, and the lascar of the door, and the huge of the door, and the expression of the door. The only was only a",
+    "full_text": "It was a dark and stormy night when he was hot in the room, and the huge of the floor, and the lascar of the door, and the huge of the door, and the expression of the door. The only was only a",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.425,
+      "distinct_2": 0.641,
+      "distinct_3": 0.7368,
+      "repetition_rate_2gram": 0.359,
+      "repetition_rate_3gram": 0.2632,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "GRU",
+    "temperature": 0.7,
+    "generated_text": "I knew that he was hot in a good - energy. All i knew that there was no jest that he was seized with a different - narrow creature in the meantime who had been upon him. The",
+    "full_text": "It was a dark and stormy night when i knew that he was hot in a good - energy. All i knew that there was no jest that he was seized with a different - narrow creature in the meantime who had been upon him. The",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.7,
+      "distinct_2": 0.8974,
+      "distinct_3": 0.9474,
+      "repetition_rate_2gram": 0.1026,
+      "repetition_rate_3gram": 0.0526,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 2,
+    "seed_prompt": "it was a dark and stormy night when",
+    "model_name": "GRU",
+    "temperature": 1.2,
+    "generated_text": "Or seeing he running beside by this quiet or two - room, and any to his refused, as though uncertain air upon in motives maids. Clair, sir terror enough rubber dropped on arrangements business those first",
+    "full_text": "It was a dark and stormy night when or seeing he running beside by this quiet or two - room, and any to his refused, as though uncertain air upon in motives maids. Clair, sir terror enough rubber dropped on arrangements business those first",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.925,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "Simple_RNN",
+    "temperature": 0.2,
+    "generated_text": "A woman, and the same source - room, and the maids was a little supper, and the vacuous of the copper beeches, and a pair of the copper beeches. I have made to my dear",
+    "full_text": "The mystery was far from solved because a woman, and the same source - room, and the maids was a little supper, and the vacuous of the copper beeches, and a pair of the copper beeches. I have made to my dear",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.625,
+      "distinct_2": 0.7949,
+      "distinct_3": 0.8947,
+      "repetition_rate_2gram": 0.2051,
+      "repetition_rate_3gram": 0.1053,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "Simple_RNN",
+    "temperature": 0.7,
+    "generated_text": "His father had been seen in the house, but he has some the same source. Well, you may not be able to go back and the evening of my power, which i have in her time",
+    "full_text": "The mystery was far from solved because his father had been seen in the house, but he has some the same source. Well, you may not be able to go back and the evening of my power, which i have in her time",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.875,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "Simple_RNN",
+    "temperature": 1.2,
+    "generated_text": "We one - cloak to visible. I throw that. All and send why which you trust surprised sake? I have shown myself. Well, taking, shot, with you, of clergyman point in the",
+    "full_text": "The mystery was far from solved because we one - cloak to visible. I throw that. All and send why which you trust surprised sake? I have shown myself. Well, taking, shot, with you, of clergyman point in the",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.825,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.2,
+    "generated_text": "The maid, and then the passage, and then, and a long, and a long, and then, and then he gave the best, and a long, and he seemed to me to be",
+    "full_text": "The mystery was far from solved because the maid, and then the passage, and then, and a long, and a long, and then, and then he gave the best, and a long, and he seemed to me to be",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.375,
+      "distinct_2": 0.5641,
+      "distinct_3": 0.6579,
+      "repetition_rate_2gram": 0.4359,
+      "repetition_rate_3gram": 0.3421,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.7,
+    "generated_text": "The table of the passage, and then, and then he kept a large one of the stairs that i was inclined to let to mind the common of the presence and a ominous, that there was mere",
+    "full_text": "The mystery was far from solved because the table of the passage, and then, and then he kept a large one of the stairs that i was inclined to let to mind the common of the presence and a ominous, that there was mere",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.625,
+      "distinct_2": 0.8974,
+      "distinct_3": 0.9737,
+      "repetition_rate_2gram": 0.1026,
+      "repetition_rate_3gram": 0.0263,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 1.2,
+    "generated_text": "She set his anger, would certainly do a cigar as like the 85 of beginning and working norton spoke in as travel looked reference for the footpaths of it on get holmes of the first league. As to",
+    "full_text": "The mystery was far from solved because she set his anger, would certainly do a cigar as like the 85 of beginning and working norton spoke in as travel looked reference for the footpaths of it on get holmes of the first league. As to",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.85,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "LSTM",
+    "temperature": 0.2,
+    "generated_text": "I had heard of the house, and i was a very pretty of the house, and i am afraid that you have heard of the matter. I am afraid that you have not know what i should",
+    "full_text": "The mystery was far from solved because i had heard of the house, and i was a very pretty of the house, and i am afraid that you have heard of the matter. I am afraid that you have not know what i should",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.575,
+      "distinct_2": 0.6923,
+      "distinct_3": 0.7632,
+      "repetition_rate_2gram": 0.3077,
+      "repetition_rate_3gram": 0.2368,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "LSTM",
+    "temperature": 0.7,
+    "generated_text": "He hurried into the room, his face and extraordinary over. He saw her with the late until he has shown, and treasure in the direction of the room, and yet his had fallen down the quiet",
+    "full_text": "The mystery was far from solved because he hurried into the room, his face and extraordinary over. He saw her with the late until he has shown, and treasure in the direction of the room, and yet his had fallen down the quiet",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.7,
+      "distinct_2": 0.9231,
+      "distinct_3": 0.9737,
+      "repetition_rate_2gram": 0.0769,
+      "repetition_rate_3gram": 0.0263,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "LSTM",
+    "temperature": 1.2,
+    "generated_text": "Though it is marked, as it gave it pity through the cellar man. Pray examine has not dated little income to my niece, but he remained to take his knee - room and perturbed came down the",
+    "full_text": "The mystery was far from solved because though it is marked, as it gave it pity through the cellar man. Pray examine has not dated little income to my niece, but he remained to take his knee - room and perturbed came down the",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.875,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "GRU",
+    "temperature": 0.2,
+    "generated_text": "The table of the house, and the expression of the scissors of the time, which was a very careful, and i knew that the lady had been in the room, and the expression of the door",
+    "full_text": "The mystery was far from solved because the table of the house, and the expression of the scissors of the time, which was a very careful, and i knew that the lady had been in the room, and the expression of the door",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.575,
+      "distinct_2": 0.7949,
+      "distinct_3": 0.8947,
+      "repetition_rate_2gram": 0.2051,
+      "repetition_rate_3gram": 0.1053,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "GRU",
+    "temperature": 0.7,
+    "generated_text": "The other side of the time, but i had seen to that some clock us. I was not surprised me now, a little good, and i conduct tell an instant of the woman. I was",
+    "full_text": "The mystery was far from solved because the other side of the time, but i had seen to that some clock us. I was not surprised me now, a little good, and i conduct tell an instant of the woman. I was",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.75,
+      "distinct_2": 0.9231,
+      "distinct_3": 0.9737,
+      "repetition_rate_2gram": 0.0769,
+      "repetition_rate_3gram": 0.0263,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 3,
+    "seed_prompt": "the mystery was far from solved because",
+    "model_name": "GRU",
+    "temperature": 1.2,
+    "generated_text": "One and stairs as tried to frankly me to narrow up that as it looks obvious greater two hours. As the good coronet - guinea house magnifying chamber to his foot evidence have ever me over for me speak",
+    "full_text": "The mystery was far from solved because one and stairs as tried to frankly me to narrow up that as it looks obvious greater two hours. As the good coronet - guinea house magnifying chamber to his foot evidence have ever me over for me speak",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.85,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "Simple_RNN",
+    "temperature": 0.2,
+    "generated_text": ". I have been a small of the authorities, but i have a considerable state. I have been several enough to the altar, and i have a considerable state, but i am sure to be a",
+    "full_text": "I walked into the room and observed. I have been a small of the authorities, but i have a considerable state. I have been several enough to the altar, and i have a considerable state, but i am sure to be a",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.525,
+      "distinct_2": 0.7436,
+      "distinct_3": 0.8421,
+      "repetition_rate_2gram": 0.2564,
+      "repetition_rate_3gram": 0.1579,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "Simple_RNN",
+    "temperature": 0.7,
+    "generated_text": "On the young lady? Well, of course, but i am sure to be a sympathy of the matter, is it, looking out of the matter, and i had the photograph of my adventure.",
+    "full_text": "I walked into the room and observed on the young lady? Well, of course, but i am sure to be a sympathy of the matter, is it, looking out of the matter, and i had the photograph of my adventure.",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.7,
+      "distinct_2": 0.9231,
+      "distinct_3": 0.9474,
+      "repetition_rate_2gram": 0.0769,
+      "repetition_rate_3gram": 0.0526,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "Simple_RNN",
+    "temperature": 1.2,
+    "generated_text": "The future. There are one of question. He is only either, she napoleons the dark and the walls and an step is an hour, i cheeks him with his extreme matters of his face and all",
+    "full_text": "I walked into the room and observed the future. There are one of question. He is only either, she napoleons the dark and the walls and an step is an hour, i cheeks him with his extreme matters of his face and all",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.75,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.2,
+    "generated_text": "That the presence was a long, thin, and i have given to the countess of the best. I took that it was a small of the night. I am sure that i am afraid in the",
+    "full_text": "I walked into the room and observed that the presence was a long, thin, and i have given to the countess of the best. I took that it was a small of the night. I am sure that i am afraid in the",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.625,
+      "distinct_2": 0.8974,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.1026,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 0.7,
+    "generated_text": ", and then i found that it was gone to the landlord that i should be able to say that it was inclined to her, but i have a very much. I had gone into the house,",
+    "full_text": "I walked into the room and observed, and then i found that it was gone to the landlord that i should be able to say that it was inclined to her, but i have a very much. I had gone into the house,",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.675,
+      "distinct_2": 0.9487,
+      "distinct_3": 0.9737,
+      "repetition_rate_2gram": 0.0513,
+      "repetition_rate_3gram": 0.0263,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "Bidirectional_RNN",
+    "temperature": 1.2,
+    "generated_text": "The first something will be. Yet s interest of an affair! Opened i both we - obliged may cut found at midnight in business be that showing and i shall started me. Well an cleaver result,",
+    "full_text": "I walked into the room and observed the first something will be. Yet s interest of an affair! Opened i both we - obliged may cut found at midnight in business be that showing and i shall started me. Well an cleaver result,",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.9,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "LSTM",
+    "temperature": 0.2,
+    "generated_text": ". I am afraid that you have not been a little more than to me. I am afraid that you have not know that you have been so far as i had heard of the matter. I am",
+    "full_text": "I walked into the room and observed. I am afraid that you have not been a little more than to me. I am afraid that you have not know that you have been so far as i had heard of the matter. I am",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.6,
+      "distinct_2": 0.7179,
+      "distinct_3": 0.7895,
+      "repetition_rate_2gram": 0.2821,
+      "repetition_rate_3gram": 0.2105,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "LSTM",
+    "temperature": 0.7,
+    "generated_text": ". Two years the tinted was closed the words of the office was a false. I am afraid, said holmes, and his wife took in the many of the morning. It is not late unlikely we",
+    "full_text": "I walked into the room and observed. Two years the tinted was closed the words of the office was a false. I am afraid, said holmes, and his wife took in the many of the morning. It is not late unlikely we",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.775,
+      "distinct_2": 0.9744,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0256,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "LSTM",
+    "temperature": 1.2,
+    "generated_text": "As much as though as ordered anything, b, and out by the 1000 danger upstairs. Had fordham clothes this. And both charming man, for something should help any terrible a strong of tales to meet",
+    "full_text": "I walked into the room and observed as much as though as ordered anything, b, and out by the 1000 danger upstairs. Had fordham clothes this. And both charming man, for something should help any terrible a strong of tales to meet",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.85,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "GRU",
+    "temperature": 0.2,
+    "generated_text": "To the bottom. I am sure that you will find it? I asked. I am sure that i am sure that i am sure that i had better to be solved in the matter of the morning",
+    "full_text": "I walked into the room and observed to the bottom. I am sure that you will find it? I asked. I am sure that i am sure that i am sure that i had better to be solved in the matter of the morning",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.55,
+      "distinct_2": 0.6923,
+      "distinct_3": 0.7368,
+      "repetition_rate_2gram": 0.3077,
+      "repetition_rate_3gram": 0.2632,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "GRU",
+    "temperature": 0.7,
+    "generated_text": "Up to the hat, and his legs - sleeve, and what was a slight, very well - looking - afternoon, and i knew my watch, and i am not so much that i could see",
+    "full_text": "I walked into the room and observed up to the hat, and his legs - sleeve, and what was a slight, very well - looking - afternoon, and i knew my watch, and i am not so much that i could see",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.725,
+      "distinct_2": 0.8974,
+      "distinct_3": 0.9737,
+      "repetition_rate_2gram": 0.1026,
+      "repetition_rate_3gram": 0.0263,
+      "consecutive_repeat_rate": 0.0
+    }
+  },
+  {
+    "seed_id": 4,
+    "seed_prompt": "i walked into the room and observed",
+    "model_name": "GRU",
+    "temperature": 1.2,
+    "generated_text": "His rooms. To you that thank all you. Photography, quite young asked holmes down her way, but your gun have been joined seen. Yesterday and settled his lane to. Do not earth fear it",
+    "full_text": "I walked into the room and observed his rooms. To you that thank all you. Photography, quite young asked holmes down her way, but your gun have been joined seen. Yesterday and settled his lane to. Do not earth fear it",
+    "metrics": {
+      "token_count": 40,
+      "distinct_1": 0.825,
+      "distinct_2": 1.0,
+      "distinct_3": 1.0,
+      "repetition_rate_2gram": 0.0,
+      "repetition_rate_3gram": 0.0,
+      "consecutive_repeat_rate": 0.0
+    }
+  }
+]

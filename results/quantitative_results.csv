@@ -1,0 +1,5 @@
+Model,Parameters,Best Val Loss,Best Val Perplexity,Best Val Top-1 Acc (%),Best Val Top-5 Acc (%),Avg Epoch Time (s),Total Train Time (s),Inference Latency (ms/token)
+Simple_RNN,1795126,5.0717,159.45,18.13,39.08,1.67,25.06,0.167
+Bidirectional_RNN,3021878,5.243,189.23,16.51,36.58,2.44,36.66,0.224
+LSTM,2091574,4.8432,126.88,18.79,41.44,2.25,33.74,0.63
+GRU,1992758,4.8807,131.73,18.12,40.12,2.15,32.33,0.554
