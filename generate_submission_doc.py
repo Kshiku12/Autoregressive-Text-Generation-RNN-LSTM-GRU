@@ -2,10 +2,10 @@ import os
 import sys
 
 def create_submission_word_doc(
-    student_name: str = "Student Name",
-    registration_num: str = "Registration Number",
-    github_link: str = "https://github.com/YourUsername/Autoregressive-Text-Generation-RNN-LSTM-GRU",
-    output_filename: str = "YourName_RegNum_FGAI_Assignment2.docx"
+    student_name: str = "Kumar Kshitij",
+    registration_num: str = "230953488",
+    github_link: str = "https://github.com/Kshiku12/Autoregressive-Text-Generation-RNN-LSTM-GRU",
+    output_filename: str = "KumarKshitij_230953488_FGAI_Assignment2.docx"
 ):
     try:
         import docx
@@ -146,10 +146,10 @@ def create_submission_word_doc(
     print(f"Successfully generated Word submission document: {output_filename}")
 
 def create_submission_pdf(
-    student_name: str = "Student Name",
-    registration_num: str = "Registration Number",
-    github_link: str = "https://github.com/YourUsername/Autoregressive-Text-Generation-RNN-LSTM-GRU",
-    output_filename: str = "YourName_RegNum_FGAI_Assignment2.pdf"
+    student_name: str = "Kumar Kshitij",
+    registration_num: str = "230953488",
+    github_link: str = "https://github.com/Kshiku12/Autoregressive-Text-Generation-RNN-LSTM-GRU",
+    output_filename: str = "KumarKshitij_230953488_FGAI_Assignment2.pdf"
 ):
     try:
         from reportlab.lib.pagesizes import letter
@@ -301,8 +301,9 @@ def create_submission_pdf(
     print(f"Successfully generated PDF submission document: {output_filename}")
 
 if __name__ == "__main__":
-    name = sys.argv[1] if len(sys.argv) > 1 else "Student Name"
-    reg = sys.argv[2] if len(sys.argv) > 2 else "Registration Number"
-    gh = sys.argv[3] if len(sys.argv) > 3 else "https://github.com/YourUsername/Autoregressive-Text-Generation-RNN-LSTM-GRU"
+    name = sys.argv[1] if len(sys.argv) > 1 else "Kumar Kshitij"
+    reg = sys.argv[2] if len(sys.argv) > 2 else "230953488"
+    gh = sys.argv[3] if len(sys.argv) > 3 else "https://github.com/Kshiku12/Autoregressive-Text-Generation-RNN-LSTM-GRU"
     create_submission_word_doc(name, reg, gh)
-    create_submission_pdf(name, reg, gh)
+    # create_submission_pdf only if needed, do not overwrite user's custom pdf
+

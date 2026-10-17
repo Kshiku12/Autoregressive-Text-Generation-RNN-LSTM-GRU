@@ -105,7 +105,7 @@ Input Sequence (B, 20) -> Embedding (B, 20, 128) -> Dropout(0.2) -> Recurrent La
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YourUsername/Autoregressive-Text-Generation-RNN-LSTM-GRU.git
+git clone https://github.com/Kshiku12/Autoregressive-Text-Generation-RNN-LSTM-GRU.git
 cd Autoregressive-Text-Generation-RNN-LSTM-GRU
 pip install -r requirements.txt
 ```
@@ -125,7 +125,7 @@ python generate.py
 python evaluate.py
 
 # Step 5: Generate submission Word (.docx) and PDF (.pdf) documents
-python generate_submission_doc.py "Your Full Name" "Your Registration Number" "https://github.com/YourUsername/Autoregressive-Text-Generation-RNN-LSTM-GRU"
+python generate_submission_doc.py "Kumar Kshitij" "230953488" "https://github.com/Kshiku12/Autoregressive-Text-Generation-RNN-LSTM-GRU"
 ```
 
 ---
@@ -271,8 +271,8 @@ DL project/
 ├── generate.py                              # Generation across seeds and temperatures
 ├── generate_submission_doc.py               # Step 3 Word (.docx) & Step 4 (.pdf) generator
 ├── requirements.txt                         # Python package dependencies
-├── YourName_RegNum_FGAI_Assignment2.docx    # Word document (Step 3)
-├── YourName_RegNum_FGAI_Assignment2.pdf     # Converted PDF document (Step 4 & 5)
+├── KumarKshitij_230953488_FGAI_Assignment2.docx    # Word document (Step 3)
+├── KumarKshitij_230953488_FGAI_Assignment2.pdf     # Converted PDF document (Step 4 & 5)
 └── README.md                                # Comprehensive project documentation
 ```
 
